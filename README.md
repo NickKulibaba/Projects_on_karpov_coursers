@@ -26,7 +26,7 @@ RFM-сегментацию пользователей, чтобы качеств
 
 
 | Rank                        | THING-TO-RANK |
-|----------------------------:|---------------|
-|     1                       |               |
-|     2                       |               |
-|     3                       |               |
+|-----------------------------|---------------|
+|   [Промежуточный проект № 1](https://github.com/Nikolay1707/Projects_on_karpov_coursers/blob/main/first_project_e_commerce.ipynb)                          |               |
+|                            |               |
+|                            |               |
