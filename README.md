@@ -1,5 +1,5 @@
 ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-# В данном репозитории собраны проекты при обучении на курсе Аналитик данных от KARPOV.COURSES 
+# Здесь собраны проекты на курсе Аналитик данных от KARPOV.COURSES 
 
 
 # [Промежуточный проект № 1](https://github.com/Nikolay1707/Projects_on_karpov_coursers/blob/main/first_project_e_commerce.ipynb) 
